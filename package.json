@@ -1,26 +1,26 @@
 {
-  "name": "vscode-essantial",
-  "displayName": ".VSCode Essantial",
-  "publisher": "EH.Milon",
-  "description": "Visual Studio Code Essential extension for all Workspace",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.83.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "icon": "icon.png",
-  "extensionPack": [ 
-    "antfu.browse-lite", 
-    "be5invis.vscode-custom-css", 
-    "Codeium.codeium", 
-    "dionmunk.vscode-notes", 
-    "formulahendry.code-runner", 
-    "Katsute.code-background", 
-    "streetsidesoftware.code-spell-checker", 
-    "tomoki1207.pdf", 
-    "Tyriar.luna-paint", 
-    "usernamehw.errorlens"
-  ]
+	"name": "vscode-essantial",
+	"displayName": ".VSCode Essantial",
+	"publisher": "EH.Milon",
+	"description": "Visual Studio Code Essential extension for all Workspace",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.83.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"icon": "icon.png",
+	"extensionPack": [
+		"Codeium.codeium",
+		"formulahendry.code-runner",
+		"streetsidesoftware.code-spell-checker",
+		"usernamehw.errorlens",
+		"be5invis.vscode-custom-css",
+		"antfu.browse-lite",
+		"Tyriar.luna-paint",
+		"dionmunk.vscode-notes",
+		"Katsute.code-background",
+		"tomoki1207.pdf"
+	]
 }
